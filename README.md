@@ -9,7 +9,7 @@ The core idea is simple:
 3. Build a **long/short portfolio** based on that signal.
 4. **Backtest** with realistic rebalancing and clear benchmarks.
 
-## What’s improved vs a one‑off demo
+## Highlights
 
 - Uses **more news** by design (rolling window of headlines per rebalance date).
 - Supports **repeated rebalancing** (daily/weekly) rather than a single formation date.
